@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Molecularnose/OpenAI/static/css/main.bc43a56e.css",
+    "main.js": "/Molecularnose/OpenAI/static/js/main.cf0abeab.js",
+    "main.js.map": "/Molecularnose/OpenAI/static/js/main.cf0abeab.js.map",
+    "static/js/1.0974d467.chunk.js": "/Molecularnose/OpenAI/static/js/1.0974d467.chunk.js",
+    "static/js/1.0974d467.chunk.js.map": "/Molecularnose/OpenAI/static/js/1.0974d467.chunk.js.map",
+    "index.html": "/Molecularnose/OpenAI/index.html",
+    "static/css/main.bc43a56e.css.map": "/Molecularnose/OpenAI/static/css/main.bc43a56e.css.map",
+    "static/js/main.cf0abeab.js.LICENSE.txt": "/Molecularnose/OpenAI/static/js/main.cf0abeab.js.LICENSE.txt",
+    "static/media/pattern-dots.svg": "/Molecularnose/OpenAI/static/media/pattern-dots.0a312038.svg"
+  },
+  "entrypoints": [
+    "static/css/main.bc43a56e.css",
+    "static/js/main.cf0abeab.js"
+  ]
+}
