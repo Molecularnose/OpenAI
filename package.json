@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Molecularnose/OpenAI",
   "name": "openai-template",
   "version": "1.0.0",
   "private": true,
@@ -50,6 +51,8 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "react": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
